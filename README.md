@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alwin B</h1>
+<h1 align="center">Hi 👋, I'm Alwin </h1>
 
 <h3 align="center">
 🚀 Data Analyst | Full Stack Web Developer | AI Enthusiast | Business Intelligence
