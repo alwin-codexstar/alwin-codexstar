@@ -85,17 +85,18 @@ Building scalable web applications, intelligent dashboards, and AI-powered solut
 - Link Building
 - Basic SEO Reporting
 
-### 🤖 AI & Modern Technologies (2026)
+## 🤖 AI & Modern Technologies (2026)
 
 - Generative AI
-- AI Agents
 - Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- Machine Learning Fundamentals
+- AI Tools
+- Machine Learning Basics
+- Data Analytics with AI
 - AI Automation
-- Predictive Analytics
-- Microsoft Fabric
-- Cloud Analytics
+- ChatGPT
+- GitHub Copilot
+- AI-Assisted Development
+- Large Language Models (LLMs)
 
 ### 🛠 Tools
 
