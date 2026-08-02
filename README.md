@@ -142,10 +142,6 @@ A smart product concept integrating:
   <img src="https://streak-stats.demolab.com?user=alwin-codexstar&theme=github-dark&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=alwin-codexstar&theme=github-dark&hide_border=true"/>
-</p>
-
 ---
 
 # 🎯 Current Focus
