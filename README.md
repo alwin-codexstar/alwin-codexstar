@@ -62,6 +62,32 @@ Building scalable web applications, intelligent dashboards, and AI-powered solut
 - Business Intelligence
 - Statistical Analysis
 
+## 🌐 Web Development
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- React.js
+- Node.js
+- Express.js
+- MySQL
+- Git & GitHub
+- Responsive Web Design
+
+## 🔍 SEO Analyst
+
+- Keyword Research
+- On-Page SEO
+- Technical SEO
+- Off-Page SEO
+- Google Search Console
+- Google Analytics (GA4)
+- SEO Audits
+- Content Optimization
+- Link Building
+- Basic SEO Reporting
+
 ### 🤖 AI & Modern Technologies (2026)
 
 - Generative AI
