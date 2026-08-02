@@ -46,21 +46,18 @@ Building scalable web applications, intelligent dashboards, and AI-powered solut
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-### 📊 Data Analytics
+## 📊 Data Analytics
 
 - Python
 - SQL
-- Excel
+- Microsoft Excel
 - Power BI
 - Pandas
 - NumPy
 - Data Cleaning
-- Data Wrangling
-- Exploratory Data Analysis (EDA)
+- Data Visualization
 - Dashboard Development
-- KPI Reporting
-- Business Intelligence
-- Statistical Analysis
+- Business Intelligence (BI)
 
 ## 🌐 Web Development
 
