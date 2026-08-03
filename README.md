@@ -162,9 +162,9 @@ A smart product concept integrating:
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-codexstar&layout=compact&theme=tokyonight" />
-</p>
+</p>](https://github-readme-stats.vercel.app/api?username=alwin-codexstar&show_icons=true&theme=tokyonight)
 
 ---
 
