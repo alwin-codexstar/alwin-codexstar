@@ -163,7 +163,7 @@ A smart product concept integrating:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alwin-codexstar&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-codexstar&layout=compact&theme=tokyonight" />
 </p>
 
 ---
